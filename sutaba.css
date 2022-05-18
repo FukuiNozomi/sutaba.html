@@ -1,0 +1,92 @@
+.container {
+    width: 1280px;
+    display: flex;
+    background-color: rgb(228, 237, 245);
+}
+
+header {
+    width: 100px;
+}
+
+header div {
+    margin: 30px 0 0 5px;
+    font-size: 14px;
+}
+
+header img {
+    width: 70px;
+    margin: 10px;
+}
+
+.contents {
+    width: 540px;
+}
+
+.aaa {
+    display: flex;
+
+}
+
+.contents #two img {
+    width: 300px;
+    margin: 0.5px 2px 0 0;
+}
+
+.contents #three img {
+    width: 220px;
+    margin-left: 9px;
+}
+
+.contents img {
+    width: 530px;
+
+}
+.title {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.column {
+    width: 180px;
+    margin: 0 0 50px 0;
+}
+
+#sub {
+    width: 360px;
+}
+
+.low {
+    width: 360px;
+    margin: 20px 0 20px 5px;
+
+}
+.please {
+    font-size: 10px;
+    color: rgb(190, 121, 71);
+
+
+}
+.column img {
+    padding: 7px;
+    width: 93px;
+}
+
+.brewing {
+    width: 230px;
+    height: px;
+    display: flex;
+    margin: 0 0 10px 2px;
+    background-color: white;
+}
+
+.data,
+.date {
+    font-size: 6px;
+    width: 100px;
+    margin: 0 5px;
+    padding: 7px;
+}
+
+.date {
+    margin-left: 60px;
+    margin-top: 30px;
+}
